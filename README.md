@@ -66,5 +66,3 @@ If you want to build professional websites without heavy coding, this course is 
 This course is a great starting point to go from “I want to build websites” to “I can build professional, responsive websites in Webflow.” Follow along, apply what you learn to real projects, and keep iterating — your first Webflow site is only the beginning. 🎉
 
 Happy learning & happy building! 💪✨
-
-[def]: /
