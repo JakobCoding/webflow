@@ -2,8 +2,7 @@
 
 ![image](/Images/webflow-img.png)
 
-**Course:** [Webflow Essentials Course — Udemy](https://www.udemy.com/course/webflow-essentials-course/)  
-**Instructor:** Daniel Walter Scott
+**Course:** [Webflow Essentials Course — Udemy](https://www.udemy.com/course/webflow-essentials-course/)
 
 ---
 
